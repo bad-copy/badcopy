@@ -1,5 +1,6 @@
 # badcopy
 badcopy is a command line rescue tool. You can use it to copy corrupted file or directory. 
+Corrupted data will be filled with zero.
 
 Mac(64), Linux(32/64) and Windows(32/64) are supported. 
 
